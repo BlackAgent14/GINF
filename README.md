@@ -20,8 +20,4 @@ cd GINF
 php ginf.php
 ```
 
-## API
-https://api.github.com/users/Gameye98
-https://api.github.com/users/Gameye98/repos
-https://api.github.com/users/Gameye98/followers
-https://api.github.com/users/Gameye98/following
+My telegram:- https://t.me/hachpro5689sk4
